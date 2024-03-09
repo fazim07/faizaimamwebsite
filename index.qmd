@@ -6,7 +6,6 @@ about:
     - text: GitHub
       url: "https://github.com/fazim07"
 comments: false
----li
 ---
 
 Hey! My name is Faiza,

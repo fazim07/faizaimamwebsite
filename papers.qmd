@@ -1,3 +1,7 @@
 ---
 title: <center> Here are my papers </center>
 ---
+Imam, F. (2024). Does the Time of Year Affect Death Tolls Among the Homeless Population? An Analysis of Deaths of People Experiencing Homelessness. *Course Paper, INF312 – Worlds Become Data. \[[available](https://github.com/fazim07/Homeless_Monthly_Death_Toll_analysis)\]*
+
+
+Imam, F, Punnoose, C, Mai, Q. (2024). Gender Dynamics in Academia: Analyzing Regrade Requests and Course Load Trends, 2010-2016. *Course Paper, INF312 – Worlds Become Data. \[[available](https://github.com/ponolite/gender_dynamics_and_regrades_in_academia)\]*
